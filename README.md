@@ -35,5 +35,7 @@ One of the conditions where the ball falls from the platfrom is when its placed 
 # Collaborators
 
 [Mohammad Fawaz Siddiqi](https://github.com/fawazsiddiqi)
+
 [Sahan Ratnayake](https://github.com/sahanratnayake)
+
 Abu Baker 
